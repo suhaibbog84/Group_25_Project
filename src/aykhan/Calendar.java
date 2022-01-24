@@ -4,5 +4,6 @@ public class Calendar {
 
     public static void main(String[] args) {
         System.out.println("Good luck");
+        System.out.println("Good luck 2");
     }
 }
